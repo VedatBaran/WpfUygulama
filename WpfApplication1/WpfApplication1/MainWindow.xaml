@@ -8,6 +8,8 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="170,137,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="button1" Content="ataberkin butttonu" HorizontalAlignment="Left" Margin="351,214,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label" Content="Sen Hayırdır Lannnn" HorizontalAlignment="Left" Margin="105,37,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button1" Content="ataberkin butttonu" HorizontalAlignment="Left" Margin="351,214,0,0" VerticalAlignment="Top" Width="114"/>
         <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Margin="309,84,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button3" Content="ataberkin butttonu" HorizontalAlignment="Left" Margin="351,214,0,0" VerticalAlignment="Top" Width="75"/>
